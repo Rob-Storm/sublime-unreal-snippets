@@ -1,23 +1,23 @@
 {
-	"name": "sublime-unreal-snippets",
-	"version": "1.0.2",
-	"description": "Snippets for writing Unreal Engine game code",
+	"name": "ue5-sublime",
+	"version": "1.0.0",
+	"description": "Snippets for writing Unreal Engine 5 game code",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/awforsythe/sublime-unreal-snippets.git"
+		"url": "https://github.com/Rob-Storm/ue5-sublime.git"
 	},
 	"keywords": [
 		"sublime",
 		"text",
 		"snippets",
 		"unreal",
-		"ue4",
+		"ue5",
 		"c++"
 	],
-	"author": "Alex Forsythe <awforsythe@gmail.com>",
+	"author": "Rob Storm",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/awforsythe/sublime-unreal-snippets/issues"
+		"url": "https://github.com/Rob-Storm/ue5-sublime/issues"
 	},
-	"homepage": "https://github.com/awforsythe/sublime-unreal-snippets"
+	"homepage": "https://github.com/Rob-Storm/ue5-sublime"
 }
