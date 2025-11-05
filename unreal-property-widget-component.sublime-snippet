@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (BindWidget))
+${2:TObjectPtr<UTextBlock>} ${1:TextBlock};
+]]></content>
+	<tabTrigger>upwc</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>
